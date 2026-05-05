@@ -7,4 +7,6 @@
 Научный руководитель: Бакшук Матвей Вячеславович
 
 
-
+Файлы не проходят ограничение объема гита.
+Ссылка на собранный датафрейм: https://drive.google.com/file/d/1xcXmbQ_Jdlio7Nu3rl3w8gG8Q3DaeV0G/view?usp=sharing
+Ссылка на baseline-датафрейм: https://drive.google.com/file/d/19Q4K0ViI0NPk4gO61cGS-y0O2zBFrodp/view?usp=sharing
