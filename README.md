@@ -15,7 +15,7 @@ hse_abd_vkr/
 ├── README.md
 ├── .gitignore
 ├── .gitattributes
-│
+├── АБД_ВКР_Малкова_ЕЕ.pdf           # текст ВКР
 ├── data/
 │   ├── data_unis.csv
 │   ├── data_with_comments.csv
