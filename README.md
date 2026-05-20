@@ -11,6 +11,35 @@
 
 ## Структура репозитория
 
+hse_abd_vkr/
+├── README.md
+├── .gitignore
+├── .gitattributes
+│
+├── data/
+│   ├── data_unis.csv
+│   ├── data_with_comments.csv
+│   ├── unis_ids.csv
+│   ├── post_val_annotated.xlsx
+│   ├── comms_val_annotated.xlsx
+│   │
+│   ├── data_parsed_unis_csvis/
+│   │   └── *.csv                    # выгрузки по отдельным университетам
+│   │
+│   └── validation_data/
+│       ├── posts_for_validation.csv
+│       ├── comments_for_validation.csv
+│       ├── post_val.csv
+│       ├── comms_val.csv
+│       ├── post_val.xlsx
+│       └── comms_val.xlsx
+│
+└── notebooks/
+    ├── data_parse_from_vk.ipynb     # сбор данных из VK
+    ├── 0_eda.ipynb                  # первичный анализ данных
+    ├── 01_baseline.ipynb            # базовые модели и признаки
+    ├── 02_advanced.ipynb            # продвинутые модели
+    └── 03_validation.ipynb          # проверка и валидация разметки
 
 ## Описание данных
 
